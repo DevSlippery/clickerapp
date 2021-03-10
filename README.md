@@ -1,5 +1,6 @@
-# clickerapp
+# clickerapp (Vue 3 Hooks)
 
+A vue 3 Hooks from Reactive Components
 ## Project setup
 ```
 npm install
